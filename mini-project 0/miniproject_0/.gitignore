@@ -10,6 +10,7 @@ logs/*
 *.trc
 */cache/*
 cache/*
+.idea/*
 
 *.tmp
 *.bak
